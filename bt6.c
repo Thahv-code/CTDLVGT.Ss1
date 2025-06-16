@@ -1,6 +1,4 @@
-//
-// Created by Cachiu on 16/6/25.
-//
+
 #include<stdio.h>
 int main () {
     int number=5;
