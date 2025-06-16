@@ -1,7 +1,5 @@
 
-//
-// Created by Cachiu on 16/6/25.
-//
+
 #include<stdio.h>
 void printDouble(int n){
     int i=1;
